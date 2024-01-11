@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hola, soy Jade Vargas 👋
 
-<!--
-**jadevargas/jadevargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-Here are some ideas to get you started:
+Estoy actualmente estudiando Desarrollo de Aplicaciones Web en UCAM. Me apasiona el desarrollo y diseño web y estoy buscando aprender más y mejorar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Técnicas
+
+- Lenguajes de programación: JavaScript, PHP, Java, etc.
+- Bases de datos: MySQL.
+
+## 📫 Contacto
+
+Si quieres ponerse en contacto conmigo, puedes enviarme un correo electrónico a jadevargas3123@gmail.com.
+
